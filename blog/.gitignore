@@ -1,0 +1,11 @@
+# Posts
+posts/*.md
+
+# Assets
+assets/*.jpg
+assets/*.png
+assets/*.gif
+
+# Temp files
+*.tmp
+*.log

@@ -1,0 +1,8 @@
+# 输出文件
+daily/
+*.md.bak
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
