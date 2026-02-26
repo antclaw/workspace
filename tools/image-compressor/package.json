@@ -1,0 +1,37 @@
+{
+  "name": "image-compressor",
+  "version": "1.0.0",
+  "description": "图片压缩工具 - 快速压缩图片，减少文件大小",
+  "main": "index.js",
+  "bin": {
+    "image-compressor": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "help": "node index.js --help"
+  },
+  "keywords": [
+    "compressor",
+    "image-compressor",
+    "image-compression",
+    "batch-compress",
+    "resize"
+  ],
+  "author": "antclaw",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antclaw/image-compressor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antclaw/image-compressor/issues"
+  },
+  "homepage": "https://github.com/antclaw/image-compressor#readme",
+  "dependencies": {
+    "sharp": "^0.32.0",
+    "commander": "^11.0.0"
+  }
+}

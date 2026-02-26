@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "debug-pro": {
+      "version": "1.0.0",
+      "installedAt": 1770981677406
+    },
+    "notion-sync": {
+      "version": "2.4.0",
+      "installedAt": 1770981738152
+    }
+  }
+}

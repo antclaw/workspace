@@ -1,0 +1,37 @@
+{
+  "name": "file-cleaner",
+  "version": "1.0.0",
+  "description": "一键清理系统垃圾文件，释放磁盘空间",
+  "main": "index.js",
+  "bin": {
+    "file-cleaner": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "help": "node index.js --help"
+  },
+  "keywords": [
+    "cleaner",
+    "disk",
+    "system",
+    "cleanup",
+    "cache",
+    "temp"
+  ],
+  "author": "antclaw",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antclaw/file-cleaner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antclaw/file-cleaner/issues"
+  },
+  "homepage": "https://github.com/antclaw/file-cleaner#readme"
+}
