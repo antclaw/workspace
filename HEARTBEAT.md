@@ -13,9 +13,9 @@ Rotate through these tasks 2-4 times per day:
 - [ ] Clean up workspace if needed
 
 ## Evening Check (20-22 PM)
-- [ ] Check for any lingering urgent messages
-- [ ] Review tomorrow's calendar
-- [ ] Plan for tomorrow
+- [x] Check for any lingering urgent messages
+- [x] Review tomorrow's calendar
+- [x] Plan for tomorrow
 
 ## Weekly Maintenance (Friday)
 - [ ] Review and update MEMORY.md
