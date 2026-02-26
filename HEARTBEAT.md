@@ -18,10 +18,10 @@ Rotate through these tasks 2-4 times per day:
 - [x] Plan for tomorrow
 
 ## Weekly Maintenance (Friday)
-- [ ] Review and update MEMORY.md
-- [ ] Clean up old memory files
-- [ ] Check project status
-- [ ] Update any documentation
+- [x] Review and update MEMORY.md
+- [x] Clean up old memory files
+- [x] Check project status
+- [x] Update any documentation
 
 ---
 
