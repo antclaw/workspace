@@ -8,9 +8,9 @@ Rotate through these tasks 2-4 times per day:
 - [x] Scan for important mentions/notifications
 
 ## Afternoon Check (14-16 PM)
-- [ ] Quick project status check (git status, etc.)
-- [ ] Review memory files for any updates needed
-- [ ] Clean up workspace if needed
+- [x] Quick project status check (git status, etc.)
+- [x] Review memory files for any updates needed
+- [x] Clean up workspace if needed
 
 ## Evening Check (20-22 PM)
 - [x] Check for any lingering urgent messages
