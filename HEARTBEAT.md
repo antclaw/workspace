@@ -16,6 +16,7 @@ Rotate through these tasks 2-4 times per day:
 - [x] Check for any lingering urgent messages
 - [x] Review tomorrow's calendar
 - [x] Plan for tomorrow
+- [x] Update daily memory file
 
 ## Weekly Maintenance (Friday)
 - [x] Review and update MEMORY.md
